@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\alumno-g\desktop\clases\main.cpp
+	<iostream>
+
+1495215121 source:c:\users\alumno-g\desktop\clases\src\vehiculo.cpp
+	"vehiculo.h"
+
+1495216999 c:\users\alumno-g\desktop\clases\include\vehiculo.h
+	<string>
+
