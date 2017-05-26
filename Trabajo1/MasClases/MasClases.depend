@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494947862 source:d:\masclases\main.cpp
+	<iostream>
+	<Complejo.h>
+
+1494947987 source:d:\masclases\src\complejo.cpp
+	"Complejo.h"
+	<iostream>
+
+1494947955 d:\masclases\include\complejo.h
+

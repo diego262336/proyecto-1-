@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1494605844 source:d:\classencmas\main.cpp
+	<iostream>
+	<math.h>
+	<Vector.h>
+
+1494605507 source:d:\classencmas\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1494605507 d:\classencmas\include\point.h
+
+1494602488 source:d:\classencmas\src\pointer.cpp
+	"Pointer.h"
+
+1494602488 d:\classencmas\include\pointer.h
+
+1494605956 d:\classencmas\include\vector.h
+	<Point.h>
+
+1494605938 source:d:\classencmas\src\vector.cpp
+	<iostream>
+	"Vector.h"
+	<math.h>
+

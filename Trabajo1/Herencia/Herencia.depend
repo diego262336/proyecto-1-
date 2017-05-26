@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495207012 source:d:\herencia\main.cpp
+	<iostream>
+
+1495209916 source:d:\herencia\src\car.cpp
+	"Car.h"
+
+1495209935 d:\herencia\include\car.h
+	<string.h>
+	"Vehiculo.h"
+	<iostream>
+
+1495210253 d:\herencia\include\vehiculo.h
+	<iostream>
+	<string.h>
+
+1495207055 source:d:\herencia\src\track.cpp
+	"Track.h"
+
+1495207055 d:\herencia\include\track.h
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1495553231 source:d:\polimorfismo\main.cpp
+	<iostream>
+	<vector>
+	"Juguete.h"
+	"Muneco.h"
+	"Carro.h"
+
+1495550378 source:d:\polimorfismo\src\carro.cpp
+	"Carro.h"
+
+1495553816 d:\polimorfismo\include\carro.h
+	<string.h>
+	"Juguete.h"
+	<iostream>
+
+1495550065 source:d:\polimorfismo\src\juguete.cpp
+	"Juguete.h"
+
+1495553816 d:\polimorfismo\include\juguete.h
+	<string.h>
+	<iostream>
+
+1495550364 source:d:\polimorfismo\src\muneco.cpp
+	"Muneco.h"
+
+1495553816 d:\polimorfismo\include\muneco.h
+	"Juguete.h"
+	<iostream>
+	<string.h>
+
