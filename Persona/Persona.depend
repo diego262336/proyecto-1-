@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316878 source:d:\persona\main.cpp
+	<iostream>
+
+1495815056 source:d:\persona\src\birthday.cpp
+	"Birthday.h"
+
+1495815056 d:\persona\include\birthday.h
+
