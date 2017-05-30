@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496133329 source:e:\c progra\pers\main.cpp
+	<iostream>
+
+1496135871 source:e:\c progra\pers\src\cumple.cpp
+	"cumple.h"
+	<iostream>
+
+1496132423 e:\c progra\pers\include\cumple.h
+	<iostream>
+
